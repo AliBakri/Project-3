@@ -6,7 +6,14 @@
 
 ## About The Project
 
-![Chi Drink](https://user-images.githubusercontent.com/42435299/161439443-385fe3fc-3b9e-4dbd-a38d-30f144939923.png)
+![Chi Drink](https://user-images.githubusercontent.com/42435299/161792574-7b519432-f36c-47f0-8111-7246ec065d32.png)
+
+
+### Demo:
+
+[ChiDrink](https://gcodiac.github.io/bootstrap-chidrink/)
+
+
 
 ### Built With
 
@@ -17,11 +24,9 @@
 - [NPM](https://npm.com/)
 - [JavaScript](https://google.com/)
 
-### Demo:
-
-[ChiDrink](https://gcodiac.github.io/bootstrap-chidrink/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
 
 <!-- GETTING STARTED -->
 
@@ -53,5 +58,6 @@ Required software and how to install them.
    ```sh
    npm start
    ```
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
